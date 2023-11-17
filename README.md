@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sennveeAYTI
-- 👀 I’m interested in Front-end Development and Back-end Development.
-- 🌱 I’m currently learning HTML and CSS
+- 👀 Aspiring Software Engineer!
+- 🌱 Currently learning JAVA.
 
 
 <!---
