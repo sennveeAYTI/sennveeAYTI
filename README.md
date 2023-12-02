@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sennveeAYTI
-- 👀 Aspiring Software Engineer!
+- 👀 An aspiring Software Engineer!
 - 🌱 Currently learning JAVA.
 
 
